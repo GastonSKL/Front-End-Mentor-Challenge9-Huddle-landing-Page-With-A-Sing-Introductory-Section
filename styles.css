@@ -18,7 +18,12 @@ body {
 }
 
 /*-----------------------------------------*/
-
+.principal{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-content: center;
+}
 .container{
     height: 39.71em;
     width: 18.75em;
